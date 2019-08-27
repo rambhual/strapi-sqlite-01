@@ -1,0 +1,1 @@
+"# strapi-sqlite-01"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:Ramprits/strapi-sqlite-01.gitgit push -u origin master
